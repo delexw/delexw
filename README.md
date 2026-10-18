@@ -22,7 +22,7 @@ The same idea for OpenAI Codex CLI sessions: search, live tailing, tool call ins
 
 ## What I'm exploring now
 
-**[Kiteva](https://github.com/delexw/kiteva)** is a personal creative room where an idea becomes a short motion-graphics film. I'm not a designer. I collected motion pieces I liked, along with notes on how each could be made, then built an agent to put that collection to work. It drafts a brief, proposes directions, renders short previews and builds the full film on macOS. Shared under a non-commercial license.
+**[Kiteva](https://github.com/delexw/kiteva)** is a personal creative room where an idea becomes a short motion-graphics film. I'm not a designer. I collected motion pieces I liked, along with notes on how each could be made, then built an agent to put that collection to work. It drafts a brief, proposes directions, renders short previews and builds the full film. Shared under a non-commercial license.
 
 <p align="center">
   <a href="https://github.com/delexw/kiteva"><img src="https://raw.githubusercontent.com/delexw/kiteva/main/docs/assets/desktop-room.png" width="720" alt="Kiteva's desktop room with the Assistant window and a project widget"></a>
@@ -30,7 +30,7 @@ The same idea for OpenAI Codex CLI sessions: search, live tailing, tool call ins
 
 ## Other experiments
 
-- **[DovePaw](https://github.com/PixelPaw-Labs/DovePaw)** is a macOS app for building, scheduling and orchestrating private Claude Code agents over A2A. It's a nights-and-weekends project, licensed MIT with Commons Clause (no commercial use).
+- **[DovePaw](https://github.com/PixelPaw-Labs/DovePaw)** is an app for building, scheduling and orchestrating private Claude Code agents over A2A. It's a nights-and-weekends project, licensed MIT with Commons Clause (no commercial use).
 - **[Excalibur](https://github.com/delexw/excalibur)** is a CLI that runs AI agents through proposal, critique and vote rounds until they reach consensus. MIT licensed.
 - **[PixelFlow](https://github.com/PixelPaw-Labs/PixelFlow)** is a CLI for video upscaling and frame interpolation using Real-ESRGAN, RIFE and FFmpeg.
 
